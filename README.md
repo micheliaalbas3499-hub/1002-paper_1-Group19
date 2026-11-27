@@ -10,7 +10,7 @@ Three group members: A, B and C.
 | --- | --- |
 | A | Yue Yin |
 | B | YI |
-| C | To be confirmed |
+| C | Megi|
 
 ### Figure 2b — WGS (Whole-Genome Sequencing)
 
