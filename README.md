@@ -8,7 +8,7 @@ Three group members: A, B and C.
 
 | Member | Name |
 | --- | --- |
-| A | Yue Yin |
+| A | Yue |
 | B | YI |
 | C | Megi|
 
